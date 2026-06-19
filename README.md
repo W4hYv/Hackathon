@@ -1,7 +1,13 @@
 # Nama Proyek
-
+ENVIRONMENTBOT
 ## Deskripsi
-Jelaskan secara singkat tujuan dan fungsi proyek.
+Ini adalah ide saya
+1. Pengelola Daur Ulang
+    *Program yang membantu mengklasifikasikan sampah organik, anorganik, B3 berdasarkan input pengguna.
+2. Pengingat untuk mengurangi Gas Rumah Kaca
+    *Program yang mengingatkan kapan harus mematikan Peralatan elektronik yang tidak dipakai untuk mengurangi GRK
+
+Tujuannya : Membantu manusia untuk mengklasifiasikan jenis sampah dan menjadi pengingat untuk mengurangi Gas Rumah Kaca. 
 
 ## Tujuan Pengujian
 Pengujian dilakukan untuk memastikan bahwa proyek:
